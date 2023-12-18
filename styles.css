@@ -59,7 +59,7 @@ body {
   line-height: 26px;
   font-weight: 400;
   overflow-x: hidden;
-  background: linear-gradient(to right, #0000FF 50%, #696969 100%);
+  background: linear-gradient(to right, #ffffff 70%, #ff4800 100%);
 }
 
 .wrapper {
@@ -72,23 +72,23 @@ body {
   text-align: center;
   justify-content: center;
   font-weight: bold;
-  color: #ffffff;
+  color: #000000;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
 
 .wrapper h2 {
   font-size: 30px;
-  color: #ffffff;
+  color: #000000;
   margin-top: 15vh;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  border: 1px solid #ffffff;
+  border: 1px solid #000000;
   width: 400px;
   font-weight: bold;
   border-radius: 20px;
   padding: 5px;
-  background: linear-gradient(to right, #0000FF 30%, #696969 70%);
+  background: linear-gradient(to right, #ffffff 70%, #ff4800 100%);
 }
 
 .wrapper h3 {
@@ -135,22 +135,22 @@ a {
 }
 
 .btn--primary {
-  background-color: #ffffff;
+  background-color: #ff480f;
 }
 
 .btn--primary:hover {
   color: #ffffff;
-  background: linear-gradient(-135deg, #696969, #0000FF);
-  box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+  background: linear-gradient(to right, #ff4800 70%, #ffffff 100%);
+  box-shadow: 0 4px 15px 0 rgba(245,245,245);
 }
 
 .btn--accent {
-  background-color: #ffffff;
+  background-color: #ff480f;
 }
 
 .btn--accent:hover {
   color: #ffffff;
-  background: linear-gradient(-135deg, #696969, #0000FF);
+  background: linear-gradient(to right, #ff4800 70%, #ffffff 100%);
   box-shadow: 0 4px 15px 0 rgba(245,245,245);
 }
 
